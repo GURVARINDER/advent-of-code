@@ -1,4 +1,4 @@
-DAY_2_INPUT = 'A Y
+INPUT = 'A Y
 C Y
 C X
 A Y

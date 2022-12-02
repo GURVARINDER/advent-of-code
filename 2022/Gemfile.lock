@@ -8,6 +8,10 @@ GEM
       method_source (~> 1.0)
     pry-nav (1.0.0)
       pry (>= 0.9.10, < 0.15)
+    pry-remote (0.1.8)
+      pry (~> 0.9)
+      slop (~> 3.0)
+    slop (3.6.0)
 
 PLATFORMS
   x86_64-darwin-21
@@ -15,6 +19,7 @@ PLATFORMS
 DEPENDENCIES
   pry
   pry-nav
+  pry-remote
 
 BUNDLED WITH
    2.2.3
