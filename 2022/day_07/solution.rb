@@ -2,6 +2,8 @@ require 'pry'
 require 'pry-nav'
 require './input.rb'
 
+
+# INCOMPLETE
 def solution(input)
   input = input.split("\n")
   directories = {}
